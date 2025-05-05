@@ -16,8 +16,8 @@ tensorflow: 2.5.0/2.6.0/2.8.0
 ```
 ## Instructions
 - We have provided the architecture and trainer/tester files.
-- Preprocessing and data file creation in 'preprocessing.py'
-- Processed data can be passed in 'trainer.py': We have left space to pass in path of the data files.
-- For reproducibility, we have provided data, models, embeddings, and code for cross database experiment. Please go inside './cross database' folder.
-- For testing in cross database, use '''ArcFaceTest''' class, instead of '''ArcFace'''.  
+- Preprocessing and data file creation in `preprocessing.py`
+- Processed data can be passed in `trainer.py`: We have left space to pass in path of the data files.
+- For reproducibility, we have provided data, models, embeddings, and code for cross database experiment. Please go inside `./cross database` folder.
+- For testing in cross database, use `ArcFaceTest` class, instead of `ArcFac`.  
 - Data files for cross database experiments are available at: [Data](https://drive.google.com/drive/folders/1KsLM7gbc4a256s_1lQPWRUKCRVYO_VwU?usp=sharing) .
