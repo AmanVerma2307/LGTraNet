@@ -15,7 +15,7 @@ python: 3.9/3.10
 tensorflow: 2.5.0/2.6.0/2.8.0
 ```
 ## Instructions
-- We have provided the architecture and trainer/tester files. Please refer `SCConv.py`, `Transformer.py', and `trainer.py`.
+- We have provided the architecture and trainer/tester files. Please refer `SCConv.py`, `Transformer.py`, and `trainer.py`.
 - Preprocessing and data file creation in `preprocessing.py`
 - Processed data can be passed in `trainer.py`: We have left space to pass in path of the data files.
 - For reproducibility, we have provided data, models, embeddings, and code for cross database experiment. Please go inside `./cross database` folder.
