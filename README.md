@@ -11,8 +11,8 @@ Identity details within an ECG is jointly situated within local and global featu
 
 ## Enviroment
 ```
-python: 3.9/3.10
-tensorflow: 2.5.0/2.6.0/2.8.0
+python: 3.9/3.10/3.11
+tensorflow: 2.5.0/2.6.0/2.8.0/2.8.2
 ```
 ## Instructions
 - We have provided the architecture and trainer/tester files. Please refer `SCConv.py`, `Transformer.py`, and `trainer.py`.
