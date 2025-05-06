@@ -14,6 +14,8 @@ Identity details within an ECG is jointly situated within local and global featu
 python: 3.9/3.10/3.11
 tensorflow: 2.5.0/2.6.0/2.8.0/2.8.2
 ```
+We have provided `requirements.txt`. Use: `pip install -r requirements.txt`.
+
 ## Instructions
 - We have provided the architecture and trainer/tester files. Please refer `SCConv.py`, `Transformer.py`, and `trainer.py`.
 - Preprocessing and data file creation in `preprocessing.py`
