@@ -23,3 +23,20 @@ We have provided `requirements.txt`. Use: `pip install -r requirements.txt`.
 - For reproducibility, we have provided data, models, embeddings, and code for cross database experiment. Please go inside `./cross database` folder.
 - For testing in cross database, use `ArcFaceTest` class, instead of `ArcFace`. This is present inside `ArcFace.py`.  
 - Data files for cross database experiments are available at: [Data](https://drive.google.com/drive/folders/1KsLM7gbc4a256s_1lQPWRUKCRVYO_VwU?usp=sharing) .
+
+## Supplementary material
+Link to supplementary material: 
+
+## Citing this repository
+If you find this code useful in your research, please consider citing us: [Link](./supplementary.pdf)
+
+```
+@article{jaswal2024learning,
+  title={Searching Identity details across Local-Global Features for Generalized Cross-Domain ECG Recognition},
+  author={Sabin Kafley and Aman Verma and Gaurav Jaswal and Arnav Bhavsar and Raghavendra Ramachandran and Aditya Nigam},
+  journal={IEEE International Joint Conference on Biometrics (IJCB)},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
