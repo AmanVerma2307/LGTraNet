@@ -31,7 +31,7 @@ Link to supplementary material:
 If you find this code useful in your research, please consider citing us: [Link](./supplementary.pdf)
 
 ```
-@article{jaswal2024learning,
+@article{kafley2025searching,
   title={Searching Identity details across Local-Global Features for Generalized Cross-Domain ECG Recognition},
   author={Sabin Kafley and Aman Verma and Gaurav Jaswal and Arnav Bhavsar and Raghavendra Ramachandran and Aditya Nigam},
   journal={IEEE International Joint Conference on Biometrics (IJCB)},
