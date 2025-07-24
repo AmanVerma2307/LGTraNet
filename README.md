@@ -1,4 +1,4 @@
-# Searching Identity details across Local-Global Features for Generalized Cross-Domain ECG Recognition
+# Searching Identity details across Local-Global Features for Generalized Cross-Domain ECG Recognition [IJCB'25]
 ***
 ## Description
 This is the code repository for the paper "Searching Identity details across Local-Global Features for Generalized Cross-Domain ECG Recognition".
