@@ -25,10 +25,10 @@ We have provided `requirements.txt`. Use: `pip install -r requirements.txt`.
 - Data files for cross database experiments are available at: [Data](https://drive.google.com/drive/folders/1KsLM7gbc4a256s_1lQPWRUKCRVYO_VwU?usp=sharing) .
 
 ## Supplementary material
-Link to supplementary material: 
+Link to supplementary material: [Link](./supplementary.pdf)
 
 ## Citing this repository
-If you find this code useful in your research, please consider citing us: [Link](./supplementary.pdf)
+If you find this code useful in your research, please consider citing us: 
 
 ```
 @article{kafley2025searching,
